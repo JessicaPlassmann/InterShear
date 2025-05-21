@@ -17,12 +17,4 @@ Open-source simulation framework for generating shearographic phase maps from FE
 
 
 ## Citation
-If you use InterShear in your research or publication, please cite the following:
-
-@misc{InterShear2025,
-  author       = {Jessica Plassmann},
-  title        = {InterShear – A MATLAB Framework for Shearographic Simulation Based on FEM Displacement Fields},
-  year         = {2025},
-  howpublished = {\url{https://github.com/JessicaPlassmann/InterShear}},
-  note         = {Accessed: [insert date of access]}
-}
+For citation information, see the [CITATION.cff](CITATION.cff) file or use the "Cite this repository" button on GitHub.
