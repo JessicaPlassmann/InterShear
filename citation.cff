@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "InterShear – A MATLAB Framework for Shearographic Simulation Based on FEM Displacement Fields"
+authors:
+  - family-names: Plassmann
+    given-names: Jessica
+    affiliation: Trier University of Applied Sciences
+date-released: 2025-05-21
+version: 1.0.0
+license: MIT
+repository-code: https://github.com/JessicaPlassmann/InterShear
