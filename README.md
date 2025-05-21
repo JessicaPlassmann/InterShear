@@ -17,4 +17,4 @@ Open-source simulation framework for generating shearographic phase maps from FE
 
 
 ## Citation
-For citation information, see the [CITATION.cff](CITATION.cff) file or use the "Cite this repository" button on GitHub.
+For citation information, see the [CITATION.cff] file or use the "Cite this repository" button on GitHub.
