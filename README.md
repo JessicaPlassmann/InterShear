@@ -3,14 +3,13 @@ Open-source simulation framework for generating shearographic phase maps from FE
 
 ## Note to Reviewers
 
->This repository contains the code associated with our submission to **Optics Express** (Manuscript ID: 572513, Title: *Simulation of Speckle Interferometric Results for Enhanced Measurement and Automated Defect Detection*).  
+>This repository has been created in connection with our submission to **Optics Express** (Manuscript ID: 572513, Title: *Simulation of Speckle Interferometric Results for Enhanced Measurement and Automated Defect Detection*).
 >
->The repository will be made fully public upon acceptance of the paper to support reproducibility and open science.  
->If you would like to review the code prior to acceptance, please do not hesitate to contact me using the details provided in the manuscript.  
->I am happy to provide early access to reviewers upon request.
+>Currently, the repository is public but does not yet contain the code or related materials. These will be added and made fully available upon acceptance of the paper to ensure reproducibility and support open science.
 >
->Thank you for your consideration.
-
+>If you wish to review the code or materials prior to acceptance, please feel free to contact me using the details provided in the manuscript. I am happy to provide early access upon request.
+>
+>Thank you very much for your consideration.
 ---
 
 ## Features
