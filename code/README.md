@@ -40,7 +40,7 @@ This column order corresponds to the default export format from ANSYS, but data 
 
 Requirements:
 
-- MATLAB R2020b or newer  
+- MATLAB R2022b or newer  
 - Image Processing Toolbox  
 - No additional dependencies
 
