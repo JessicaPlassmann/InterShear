@@ -1,6 +1,12 @@
 # Sample Results
 
-This folder contains sample images illustrating the geometry and simulation outputs associated with our manuscript submitted to **Optics Express**.
+This folder contains sample images illustrating the geometry and simulation outputs associated with our manuscript submitted to **Optics Express**:
+
+**Plassmann, Jessica; Schuth, Michael; von Freymann, Georg. 
+"Simulation of Speckle Interferometric Results for Enhanced Measurement and Automated Defect Detection." 
+*Optics Express*, 33(24), 50791–50800 (2025). [DOI: 10.1364/OE.572513](https://doi.org/10.1364/OE.572513), 
+Preprint available at [arXiv:2507.00732](https://arxiv.org/abs/2507.00732))**
+
 
 ## Overview
 
@@ -23,4 +29,4 @@ The image below shows the full plate simulation results alongside real measureme
 
 ## Note on Data Acquisition
 
-The images and measurement data presented in this repository were obtained using both custom-built laboratory shearography sensors and commercially available sensors from Tenta Vision GmbH. The use of multiple sensor types ensures the robustness and general applicability of the presented methods. Detailed descriptions of the acquisition setups and measurement protocols can be found in the associated publications.
+The images and measurement data presented in this repository were obtained using both custom-built laboratory shearography sensors and commercially available sensors from Tenta Vision GmbH (https://www.tenta-vision.de/). The use of multiple sensor types ensures the robustness and general applicability of the presented methods. Detailed descriptions of the acquisition setups and measurement protocols can be found in the associated publications.
